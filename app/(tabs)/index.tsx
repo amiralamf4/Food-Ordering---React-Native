@@ -1,5 +1,5 @@
 import { FlatList, Image, Pressable, ScrollView, Text, TouchableOpacity, View } from "react-native";
-import '../global.css'
+import "@/global.css"
 import { SafeAreaView } from "react-native-safe-area-context";
 import { images, offers } from "@/constants";
 import { Fragment } from "react";
